@@ -1,0 +1,17 @@
+.container{
+    background-color: bisque;
+    scroll-behavior: smooth;
+    text-align: center;
+    image-rendering: optimizeQuality;
+}
+
+body {
+  background-color: black;
+}
+      
+h3{
+  text-align: center;
+}
+summary{
+  font-family: cursive;
+}
