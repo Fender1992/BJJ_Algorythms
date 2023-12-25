@@ -4,11 +4,21 @@
     text-align: center;
     image-rendering: optimizeQuality;
 }
+.menu{
+  list-style: none;
+}
+
+@media(min-width: 680px){
+    img{
+      width: 200px;
+      height: 150px;
+    }
+}
 
 body {
   background-color: black;
 }
-      
+
 h3{
   text-align: center;
 }
